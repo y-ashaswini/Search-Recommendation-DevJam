@@ -24,11 +24,9 @@ entrypoints==0.4
 executing==0.8.3
 fastapi==0.85.0
 filelock==3.6.0
-firebase-admin==5.3.0
 flatbuffers==1.12
 fonttools==4.31.2
 gast==0.4.0
-gcloud==0.17.0
 grpcio==1.47.0
 grpcio-status==1.47.0
 gunicorn==20.1.0
@@ -69,7 +67,6 @@ notebook==6.4.8
 numpy==1.22.3
 oauth2client==3.0.0
 oauthlib==3.2.0
-opencv-contrib-python==4.5.5.64
 opt-einsum==3.3.0
 packaging==21.3
 pandas==1.4.1
