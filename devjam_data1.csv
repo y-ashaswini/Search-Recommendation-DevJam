@@ -1,0 +1,94 @@
+ID,Name,Origin,Period,Type,Description
+A01,Aipan Art,Uttarkhand,1560,Painting,"Ancient style of painting depicting mostly Jain, Buddhist and Hindu themes. Often drawn during Pujas."
+A02,Sattriya Miniature,Assam,1600,Miniature Painting,"Miniature outlines describing stories using water based paints made through tamarind seeds, agar leaf. Often depicted in Sanchipat."
+A03,Tai Style Miniature,Assam,1600,Miniature Painting,"Miniature describing stories are drawn by using adhesives like tmarind seeds, agar leaf and latex. Uses text based on Sanchipat."
+A04,Darrangi Miniature,Assam,1600,Miniature Painting,"Miniature describing stories  made through the usage of latex, tamarind seeds and agar. "
+A05,Gadgayan Miniature,Assam,1600,Miniature Painting,"Based on Sanchipat, miniatures made using latex, tamarind seeds, agar, etc to describe stories."
+A06,Bhil Painting,Madhya Pradesh,,Painting,"Stories, prayers, memories and traditions are painted onto plain backgrounds in a symphony of multihued dots."
+A07,Kohbar,Uttar Pradesh,,Bhojpuri Painting,Bhojpuri painting depicting love and gratification.
+A08,Pidhiya,Uttar Pradesh,,Bhojpuri Painting," Bhojpuri painting portraying assorted subjects such as gods, goddesses, animals, plants and flowers."
+A09,Cheriyal Scroll,Telangana,,Scroll Painting,"Made by ragi dough shaped into scrolls. Hand painted with vegetable colors.Depicts scenes from the Ramayana, Mahabharata."
+A10,Chittara Art,Karnataka,,Drawing,"Drawings are intricate patterns, that represent the auspicious ceremony and rituals of life, symbolized in geometric patterns.Made using rice paste and seeds."
+A11,Chitrakathi Painting,Maharastra,1700,Painting,Painting themes depicting local versions of Ramayana and Mahabharata drawn in a brownish shade.
+A12,Dokra Art,West Bengal,1600,Sculpture,Metal casting of sculpture through special clay.
+A13,Kolam Floor Painting,Tamil Nadu,1500,Drawing,"Made with rice flour, depicts day to day life and pujas."
+A14,Godna Painting,Chattisgarh,,Drawing,"Using natural colours derived from bark, leaf, flowers, and seeds to paint illustrations on the outside of houses and body parts."
+A15,Gond Paintint,Madhya Pradesh,1400,Drawing,"Contour type painting of animals, birds and the environment in general."
+A16,Jadopatia,Jharkhand,1900,Painting,"Made on waste paper, paintings depict figures in a single flat plane."
+A17,Kalamezuthu,Kerala,1700,Powdered Painting,Painting made using coloured powder during functions or rituals.
+A18,Kalamkari,Andhra Pradesh,1400,Painting,"Dye painting depicting Ramayana, Mahabharata on clothes."
+A19,Kalighat Painting,West Bengal,1900,Painting,Scroll painting depicting Hindu Gods and era of Ramayana and Mahabharata.
+A20,Kangra,Himachal Pradesh,1700,Painting,"Graceful lines, bright colours and detailed décor- it follows a style similar to that of Ajanta."
+A21,Kavad,Rajasthan,1500,Painting,Depicts stories of Ramayana and Mahabharata using bold colours.
+A22,Mural,Kerala,400,Painting,"Using red, yellow, white paints, it depicts stories of Ramayana and Mahabharata."
+A23,Krishnagarh,Rajasthan,1800,Painting,Depicts beautiful miniature pictures of Radha and Krishna.
+A24,Kondapalli Bomallu,Andhra Pradesh,1600,Paintint,"Using water, oil and light sft wood, it depicts religious themes."
+A25,Kalaripayattu,Kerala,400,Martial Art,"Footwork which includes kicks, strikes and weapon based practice. Form of unarmed self defence."
+A26,Silambam,Tamil Nadu,800,Martial Art,"Swift movements of the foot, use of thrust, cut, chop, sweep to achieve mastery & development of force, momentum & precision."
+A27,Thang-ta,Manipur,1700,Martial Art,Ancient martial art which uses other weapons including an axe and a shield.
+A28,Sarit Sarak,Manipur,1700,Martial Art,Unarmed art form that uses hand to hand combat.
+A29,Thoda,Himachal Pradesh,,Martial Art,Group combat technique using wooden bows and arrows.
+A30,Gatka,Punjab,1900,Martial Art,Fighting style using sward and axe.
+A31,Lathi,Punjab,1600,Martial Art,Fighting style using pointed sticks.
+A32,Inbuan Wrestling,Mizoram,1700,Martial Art,Strict ancient wrestling technique used for self defence.
+A33,Kuttu Varisai,Tamil Nadu,,Martial Art,Combat similar to animal attacking techniques.
+A34,Musti Yuddha,Uttar Pradesh,,Martial Art,"Kicks, punches, knee and elbow striking techniques."
+A35,Pari-Khanda,Bihar,1900,Martial Art,Fighting technique involving swords.
+A36,Chauu,West Bengal,1900,Dance,Mythological dance form inspired from Ramayana and Mahabharata. Uses large masks and colourful costumes.
+A37,Sattriya,Orissa,1500,Dance,Dance conveying mytholoical stories.
+A38,Kalbeliya,Rajasthan,1900,Dance,Dance form inspired from the movement of snakes.
+A39,Gotipua,Orissa,1600,Dance,Dance forminspired from devdassi tradition potraying Lord Krishna and Radha.
+A40,Charkula,Uttar Pradesh,1600,Dance,"Performed with pyramid structure on head, it depicts the story of Radha and Krishna."
+B01,Gaur Mariya,Madhya Pradesh,,Dance,"Dance form involving horn, trumpet and sticks."
+B02,Ghore Modini,Maharastra,1700,Dance,Dancers dress up in their popular perky attire with a wooden horse tied at their waist and bright headgears. Depicting horse like movementts.
+B03,Kummi,Tamil Nadu,,Dance,Group dance performed in a circle . Involves claps and humming to tunes.
+B04,Phag,West Bengal,1800,Dance,Tribal dance performed by farmers for good crop harvest.
+B05,Cheraw,Mizoram,1000,Dance,Tribal dance involving movind between bamboos.
+B06,Saila,Chattisgarh,,Dance,"Inspired from snake movements, performed during good harvest."
+B07,Dhangari,Maharastra,1200,Dance,"Vibrant dance form, very close to nature."
+B08,Sammi,Punjab,,Dance,Mythological dance depicting stories of Ramayana and Mahabharata.
+B09,Dollu Kunitha,Karnataka,1600,Dance,Dance form depicting stories of Ramayand and Mahabharata.
+B10,Bihugeet,Assam,1900,Music,"Tranquil, heart touching, sweetest melodies."
+B11,Lavani,Maharastra,1800,Music,"Foot tapping beats, similar to pop."
+B12,Baul,West Bengal,1900,Music,Lyrical songs depicting philosophy played using a sitar like instrument.
+B13,Naatupura Paatu,Tamil Nadu,1900,Music,Folk music sung with drums.
+B14,Zeliang,Mizoram,1900,Music,"Lyrics range from, romance, stories of their ancestors to songs of harvest."
+B15,Koli,Maharastra,,Music,"Songs talking about  life at sea, fishing."
+B16,Bhaitali,West Bengal,1900,Music,"Melodious songs talking about  life at sea, fishing."
+B17,Maand,Rajasthan,1800,Music,"Soulful music with its expressive scales of the Sarangee, and the lyrics talking about the life in Rajasthan."
+B18,Kajari,Maharastra,,Music,Music depicting lost love.
+B19,Dulpod,Maharastra,1900,Music,"Influenced from western music, played using violins."
+B20,Kurumba,Tamil Nadu,1900,Painting,"Depiction of Krishna over rocks and walls. Artists traditionally use red, mustard, black, and green."
+C01,Kutch Lippan,Gujarat,1900,Painting,Art of mud washing.
+C02,Leather Puppet,Andhra Pradesh,1800,Painting,Puppets crafted using leather and bamboo nibs.
+C03,Mandana,Rajasthan,1500,Painting,Unique shaped made using clay and cow dung.
+C04,Madhubani,Bihar,1200,Painting,Distinct strokes depicting story of Ramayana.
+C05,Mata Ni Pachedi,Gujarat,1500,Painting,Painting depicting several religious norms.
+C06,Masan Painting,West Bengal,1700,Painting,"Made using vibrant shades, this style revolves around wars."
+C07,Meenakari,Rajasthan,1700,Painting,Distinct strokes of patterns forming various shapes.
+C08,Ganfija,Karnataka,1600,Painting,"Painting with natural dyes, it depics several gods and goddess."
+C09,Mysore Painting,Karnataka,1600,Painting,Intricate painting of traditional Indian jewelleries.
+C10,Nirmal Painting,Telangana,1400,Painting,"Depicts traditional scenes from the ancient Hindu epics, Ramayana and Mahabharata."
+C11,Pattachitra,Orissa,1700,Painting,"Depicts traditional scenes from the ancient Hindu epics, Ramayana and Mahabharata."
+C12,Patua,West Bengal,1500,Painting,"Drawn on scrolls using natural dyes, depicts religious norms of Ramayana and Mahabharata."
+C13,Pipli,Orissa,1900,Painting,Animal drawn in circles over umbrellas.
+C14,Pichwai,Rajasthan,1400,Painting,"Drawn with dark rich hues, depicts gods and goddess."
+C15,Pithora,Madhya Pradesh,1500,Painting,"Painted with natural dyes over soft wood, depicts traditional art form."
+C16,Phad Painting,Rajasthan,1600,Painting,"Drawn on scrolls using dyes, it depicts religious hymns of Mahabharata and Ramayana."
+C17,Rogan Art,Gujarat,1600,Drawing,Distinct intricate circular patterns drawn with bold colours.
+C18,Reversed Glass,Tamil Nadu,1700,Painting, Painted from the reverse side of the glass using gums and resins.
+C19,Saura Painting,Orissa,1600,Painting,"Drawn with rice and clay, it depics life of Saura tribe."
+C20,Sanjhi Art,Uttar Pradesh,1500,Painting,"Bold strokes of black and white, depicts religious figures."
+D01,Tikuli Art,Bihar,1200,Painting,Painted with natural dyes it depicts several Gods and Goddess.
+D02,Santhal Painting,West Bengal,1400,Painting,"Painted with bold distinct colours made out of natural dyes, these paintings depict day to dsy life."
+D03,Warli Folk,Maharastra,1400,Drawing,Intricate design made out of natural white dye depicting hymns of Ramayana and Mahabharata.
+D04,bidriware,karnataka,1600,pottery,"Silver designs are engraved into items made of an alloy of zinc, copper,ferrous metals."
+D05,molela murtikla,rajasthan,,pottery,Handmade terracotta idols are made for use on flat surfaces like tiles and plaques. 
+D06,teracotta pottery,West Bengal,1400,pottery,"Figures of horses, elephants, monkeys holding decorative value made of teracotta."
+D07,black clay pottery,UP,1300,pottery,"Grooves are filled with a silvery powder of zinc, mercury or other metal amalgams."
+D08,khavda pottery,Gujarat,1700,pottery,"The pottery is coated in a thin wash of geru, a local soil, which lends a subtle warm colour."
+D09,aari,Kashmir,1600,embroidery,"Intricate movement creates loops, and repeats of these lead to a line of chain stitches."
+D10,banjara,andhra pradesh,1550,embroidery,Banjara embroidery is a mix of applique with mirrors and beadwork.
+D11,heer,Gujarat,1400,embroidery,It is done with silk floss and is famous for its vibrancy and richness in color pallets and patterns.
+D12,Chambal rumal,Himachal Pradesh,1600,embroidery,"Has its own distinctive style, small squares or rectangles of clothe embroidered with silk threads."
+D13,kasuti,karnataka,800,embroidery,"The patterns are stitched without knots, so that both sides of the cloth look alike."
