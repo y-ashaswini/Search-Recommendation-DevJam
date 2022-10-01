@@ -3,12 +3,21 @@ import pandas as pd
 from rake_nltk import Rake
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import CountVectorizer
+from fastapi.middleware.cors import CORSMiddleware
 import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import punkt
 
 app = FastAPI()
 data_path = 'devjam_data1.csv'
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=False,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 
 @app.get("/")
